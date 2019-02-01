@@ -1,0 +1,61 @@
+.navbar-brand{
+    
+    background-color: rgb(54, 182, 169);
+    font-weight:bold;
+    color:white !important;
+    padding:10px;
+
+}
+
+.white{
+    color: white;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navbar-expand-lg{
+    background-color: white;
+}
+
+.navbar-light{
+    background-color: white;
+}
+
+.bg-light{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: rgb(54, 182, 169);
+}
+
+.left{
+    text-align: left;
+}
+
+h2{
+    text-align: center;
+    color: rgb(54, 182, 169);
+    font-size: x-large;
+}
+
+.section{
+    background-color:white;
+    padding: 10px;  
+    
+}
+
+.border{
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(54, 182, 169) !important;
+    
+}
+
+.datatable{
+    frameborder: 0;
+
+}
